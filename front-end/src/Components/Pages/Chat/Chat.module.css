@@ -1,0 +1,23 @@
+.space{
+    height:70vh;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+
+  width: 50%;
+  margin-left: 49vh;
+  box-shadow: 0 1px 10px black;
+  position: relative;
+  top:55vh ;
+}
+.messagerie{
+    background:linear-gradient(15deg,#a294c7,#393b65c9);
+    width: 100%;
+   height: 80vh auto;
+}
+input{
+    width: auto;
+    height: auto;
+}

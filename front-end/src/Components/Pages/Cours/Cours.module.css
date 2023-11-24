@@ -1,0 +1,72 @@
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.cours{
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+ height: 100vh;
+}
+.cours{
+
+    margin-top: 10vh;
+    border-radius: 25px;
+    box-shadow: 0 1px 10px black;
+color:rgb(0, 0, 0);;
+    background-color:#a294c7;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40vh;
+    width: 100%;
+}
+.cours button{
+    height: 50px;
+    border-radius: 30px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.ensavoirplus{
+    margin-top: 10vh;
+    border-radius: 10px;
+    box-shadow: 0 1px 10px black;
+color:rgb(0, 0, 0);;
+    background-color: #a294c7;
+    height: 25vh;
+   
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+    width: 100%; 
+    margin-left: 50vh;
+}
+.container{
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.changement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+
+}
+.ensavoirplus button{
+    height: 50px;
+    border-radius: 30px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
